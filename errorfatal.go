@@ -8,6 +8,7 @@
 // ....
 // e.F(os.Chdir("123"))
 // ....
+//
 // e.F(os.WriteFile("123.txt", e.F2(os.ReadFile("456.txt")), 0644))
 package errorfatal
 
