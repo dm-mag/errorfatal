@@ -4,7 +4,7 @@
 // }
 //
 // and replaces it with:
-// import e "errortest/errorfatal"
+// import e "github.com/dm-mag/errorfatal"
 // ....
 // e.F(os.Chdir("123"))
 // ....
