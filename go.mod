@@ -1,3 +1,3 @@
 module github.com/dm-mag/errorfatal
 
-go 1.23.5
+go 1.18.0
